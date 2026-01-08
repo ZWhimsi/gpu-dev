@@ -1,0 +1,14 @@
+# Fichiers compilés
+*.o
+*.out
+vector_add
+*_add
+matrix_mul
+
+# Fichiers temporaires
+*.swp
+*~
+.DS_Store
+
+# Dossiers de build
+build/
